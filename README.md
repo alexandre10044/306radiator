@@ -1,6 +1,8 @@
 # 306radiator
  
-A radiator is placed in a square room. We want to know how the temperature is distributed in the roombased on the radiator’s location. The temperature in the room verifies the very famous heat equation:∂2T∂x2(x, y) +∂2T∂y2(x, y) =f(x, y)where:•Tis the room temperature,
+A radiator is placed in a square room. We want to know how the temperature is distributed in the roombased on the radiator’s location. The temperature in the room verifies the very famous heat equation:∂2T∂x2(x, y) +∂2T∂y2(x, y) =f(x, y)where:
+
+•Tis the room temperature,
 
 •∂2T /∂u2is the second partial derivative ofTrelative tou,
 
